@@ -9,18 +9,18 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Crystian Marcondes Oliveira Nascimento
+- Matricula:908821
 - Proposta de projeto escolhida:
 - Breve descrição sobre seu projeto:
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image-2.png)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image-3.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
